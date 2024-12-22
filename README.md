@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Phanyen05
-- 👀 I’m interested in Data 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on DE 
+- 👀 I’m interested in Data
 
 
 <!---
